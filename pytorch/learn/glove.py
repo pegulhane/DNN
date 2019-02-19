@@ -1,3 +1,7 @@
+# Fast implemenetation : https://gist.github.com/MatthieuBizien/de26a7a2663f00ca16d8d2558815e9a6
+# normal implementation : https://github.com/2014mchidamb/TorchGlove/blob/master/glove.py
+
+
 import numpy as np
 
 cooccurance_matrix = np.random.randint(0, high=10, size=(3,3))
